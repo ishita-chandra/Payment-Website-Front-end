@@ -1,0 +1,10 @@
+.TableContainer{
+    background:transparent !important;
+    
+}
+
+.TableContainer table tr,
+.TableContainer table th,
+.TableContainer table td{
+    color:white !important;
+}

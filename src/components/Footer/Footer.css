@@ -1,0 +1,10 @@
+.Footer{
+    display:flex;
+    justify-content:center;
+    margin-top:auto;
+    padding-top:40px;
+}
+.copyright_line{
+    color:white;
+
+}

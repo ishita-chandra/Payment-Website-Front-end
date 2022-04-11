@@ -1,0 +1,14 @@
+.header{
+ display:flex;
+}
+.header_image_container{
+    width:100%;
+}
+.header_image_container>img
+{
+/* height:100px; */
+width:30%;
+}
+.main_img{
+    margin-left:-15%;
+}
