@@ -3,7 +3,7 @@
     /* width: 100%; */
     
     justify-content: space-between;
-    margin:40px 0;
+    margin:60px 0 40px 0;
 
 }
 
@@ -29,10 +29,21 @@
     border-right:1px solid #224569 !important;
 
 }
+
+.form-contents{
+    padding:10px;
+    margin:5px;
+    border-radius: 5px !important;
+}
 .Customer-Id
 {
     height:100%;
     padding:10px;
     flex-grow:0.5;
     border-radius: 5px;
+}
+.refresh{
+    border-radius: 5px!important;
+    border: 1px solid #224569 !important;
+   padding:0 !important;
 }

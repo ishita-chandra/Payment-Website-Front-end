@@ -3,8 +3,17 @@
     
 }
 
-.TableContainer table tr,
-.TableContainer table th,
-.TableContainer table td{
+
+.TableContainer table td,.TableContainer table tr
+{
+   
+    background: #193b5a !important;
     color:white !important;
+}
+.TableContainer table th{
+    color:white !important;
+}
+.sort-col{
+    cursor:pointer !important;
+    display: flex !important;
 }

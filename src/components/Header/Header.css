@@ -1,5 +1,6 @@
 .header{
  display:flex;
+ margin-top:10px;
 }
 .header_image_container{
     width:100%;
